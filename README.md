@@ -1,3 +1,2 @@
-# framerPractice
-This repository is being used to show my own FramerJS prototyping practice, and it's also teaching me how to use Git! I hope someone other than myself can benefit from it in the future.
-# framerFork
+# New_Repo
+This is a repo used to practice general version control commands with git. It's also being used to practice interacting with github.
